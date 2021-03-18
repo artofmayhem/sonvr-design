@@ -8,7 +8,7 @@ function App() {
       <div className="content d-flex flex-column justify-content-center">
         <div
           className="blackthought-splash "
-          style={{ alignSelf: "center", marginTop: "-25vw" }}
+          style={{ alignSelf: "center", marginTop: "-15vw" }}
           id="fontOpacity"
         >
           {" "}
